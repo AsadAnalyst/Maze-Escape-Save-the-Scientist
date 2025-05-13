@@ -67,6 +67,10 @@ Each cell in the 15x15 grid can be:
    - Space Complexity: `O(V)`
 
 ---
+## 📦 Screenshots
+
+![image](https://github.com/user-attachments/assets/dbd2005e-715e-4ce6-ad26-28f5259d7c34)
+
 
 ## 📦 Requirements
 
